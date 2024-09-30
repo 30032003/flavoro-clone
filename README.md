@@ -13,7 +13,7 @@ Welcome to Flavoro, your go-to food app for a delightful dining experience!
 - **Built with:** React, Vite, and Tailwindcss.
 
 ## Demo
-Explore Flavoro: [Flavoro Demo](https://flavoro-wheat.vercel.app/)
+Explore Flavoro: [Flavoro Demo](https://flavoro-clone-cv8896zaz-harshal-dahiwales-projects.vercel.app/)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/ankitjhagithub21/flavoro.git`
